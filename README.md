@@ -1,4 +1,4 @@
-# PEGASSUS 2026
+# PEGASUS 2026
 
 Dashboard statis HTML, CSS, dan JavaScript untuk GitHub Pages, tanpa build atau backend.
 
