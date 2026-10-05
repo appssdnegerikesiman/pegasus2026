@@ -1,0 +1,10 @@
+[
+  {"id":"sdn3","name":"SD Negeri 3 Kesiman","logo":"assets/logos/1.png"},
+  {"id":"sdn7","name":"SD Negeri 7 Kesiman","logo":"assets/logos/2.png"},
+  {"id":"sdn10","name":"SD Negeri 10 Kesiman","logo":"assets/logos/3.png"},
+  {"id":"sdn12","name":"SD Negeri 12 Kesiman","logo":"assets/logos/4.png"},
+  {"id":"sdn16","name":"SD Negeri 16 Kesiman","logo":"assets/logos/5.png"},
+  {"id":"sdn17","name":"SD Negeri 17 Kesiman","logo":"assets/logos/6.png"},
+  {"id":"mahardika","name":"SD Mahardika Denpasar","logo":"assets/logos/7.png"},
+  {"id":"rajyamuna","name":"SD Raj Yamuna","logo":"assets/logos/8.png"}
+]

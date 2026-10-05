@@ -1,0 +1,57 @@
+{
+  "updatedAt": "2026-10-05T13:54:22+08:00",
+  "results": [
+    {
+      "id": "catur-putra",
+      "sport": "Catur",
+      "category": "Putra",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-05T13:54:22+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn10",
+          "athlete": "Nyoman Ramaditya Yogantara"
+        },
+        {
+          "place": 2,
+          "schoolId": "mahardika",
+          "athlete": "I Gusti Ngurah Nathan Wirawan"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn17",
+          "athlete": "Putu Gita Krisna"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "catur-putri",
+      "sport": "Catur",
+      "category": "Putri",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-05T13:54:22+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "Komang Warma Yanti"
+        },
+        {
+          "place": 2,
+          "schoolId": "mahardika",
+          "athlete": "Ni Kadek Kaluna Lavina Pradiasta"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Ida Ayu Agung Rarasati"
+        }
+      ],
+      "medalsConfirmed": true
+    }
+  ]
+}

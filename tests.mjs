@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {counted,normalize,standings} from './logic.js';
+for(const n of [0,2,3,4,5,8])for(const p of [1,2,3])assert.equal(counted({participants:n},p),n>=p+2);
+assert.equal(counted({participants:null},1),false);assert.equal(counted({participants:null,medalsConfirmed:true},3),true);
+const schools=JSON.parse(fs.readFileSync('data/schools.json')), raw=JSON.parse(fs.readFileSync('data/results.json'));
+const events=normalize(raw,schools), rows=standings(events,schools);
+assert.equal(rows.find(s=>s.id==='mahardika').total,3);assert.equal(rows.find(s=>s.id==='sdn10').rank,1);assert.equal(rows.find(s=>s.id==='sdn16').rank,1);assert.equal(rows.find(s=>s.id==='mahardika').rank,3);assert.equal(rows.reduce((n,s)=>n+s.total,0),6);
+assert.equal(normalize({results:[...raw.results,...raw.results]},schools).length,2);
+assert.ok(standings([],schools).every(s=>s.rank===null&&s.total===0));
+assert.equal(normalize({results:[{...events[0],participants:'8',winners:[{place:1,schoolId:'unknown'}]}]},schools)[0].winners.length,0);
+console.log('Medal rules, confirmed results, ties, empty state, validation and duplicates passed.');
