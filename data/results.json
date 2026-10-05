@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T13:54:22+08:00",
+  "updatedAt": "2026-10-05T14:05:43+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -49,6 +49,110 @@
           "place": 3,
           "schoolId": "mahardika",
           "athlete": "Ida Ayu Agung Rarasati"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "tolak-peluru-putra",
+      "sport": "Tolak Peluru",
+      "category": "Putra",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-05T14:05:43+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn16",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "nn"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "tolak-peluru-putri",
+      "sport": "Tolak Peluru",
+      "category": "Putri",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-05T14:05:43+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn10",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "lari-putra",
+      "sport": "Lari",
+      "category": "Putra",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-05T14:05:43+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn16",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "nn"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "lari-putri",
+      "sport": "Lari",
+      "category": "Putri",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-05T14:05:43+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "nn"
         }
       ],
       "medalsConfirmed": true
