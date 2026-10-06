@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T14:05:43+08:00",
+  "updatedAt": "2026-10-06T10:47:05+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -153,6 +153,110 @@
           "place": 3,
           "schoolId": "sdn10",
           "athlete": "nn"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "balap-sepeda-itt-putra",
+      "sport": "Balap Sepeda",
+      "category": "ITT Putra",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-06T10:47:05+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn12",
+          "athlete": "Vicky"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn12",
+          "athlete": "Roger"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn12",
+          "athlete": "Agus Arimbawa"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "balap-sepeda-itt-putri",
+      "sport": "Balap Sepeda",
+      "category": "ITT Putri",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-06T10:47:05+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "Elin"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "Grasita"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn17",
+          "athlete": "Dewi"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "balap-sepeda-xco-putra",
+      "sport": "Balap Sepeda",
+      "category": "XCO Putra",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-06T10:47:05+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn12",
+          "athlete": "Vicky"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn12",
+          "athlete": "Roger"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn17",
+          "athlete": "Budi"
+        }
+      ],
+      "medalsConfirmed": true
+    },
+    {
+      "id": "balap-sepeda-xco-putri",
+      "sport": "Balap Sepeda",
+      "category": "XCO Putri",
+      "type": "perorangan",
+      "participants": null,
+      "updatedAt": "2026-10-06T10:47:05+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "Elin"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "Devi"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn17",
+          "athlete": "Grasita"
         }
       ],
       "medalsConfirmed": true
