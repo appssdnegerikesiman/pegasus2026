@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:47:05+08:00",
+  "updatedAt": "2026-10-06T10:48:04+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -260,6 +260,316 @@
         }
       ],
       "medalsConfirmed": true
+    },
+    {
+      "id": "dance-sport-syllabus-cha-cha",
+      "sport": "Dance Sport",
+      "category": "Syllabus Cha-Cha",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "Ni Putu Keisha Ayu Pramusita"
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "Ida Ayu Agung Rai... Putri Yesa*"
+        },
+        {
+          "place": 3,
+          "schoolId": "rajyamuna",
+          "athlete": "Putu Kirena Vindra Widiasri"
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-syllabus-rumba",
+      "sport": "Dance Sport",
+      "category": "Syllabus Rumba",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn10",
+          "athlete": "Desak Putu Trisna Prabandari"
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "Ida Ayu Clarissa Kamala"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Gusti Ayu Putu Radea Prameswari"
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-syllabus-jive",
+      "sport": "Dance Sport",
+      "category": "Syllabus Jive",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "rajyamuna",
+          "athlete": "I Kadek Wahyu Giandra Sukarta"
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "Ida Ayu Clarissa Kamala"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Cokorda Istri Indira Nanda Diandra"
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-line-dance-sport-cha-cha",
+      "sport": "Dance Sport",
+      "category": "Line Dance Sport Cha-Cha",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "Dewa Ayu Kirana Bintang Maheswari"
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "Ida Ayu Clarissa Kamala"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "Desak Putu Trisna Prabandari"
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-line-dance-sport-jive",
+      "sport": "Dance Sport",
+      "category": "Line Dance Sport Jive",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "Dewa Ayu Kirana Bintang Maheswari"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn10",
+          "athlete": "Desak Putu Trisna Prabandari"
+        },
+        {
+          "place": 3,
+          "schoolId": "rajyamuna",
+          "athlete": "I Kadek Wahyu Giandra Sukarta"
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-solo-dance-cha-cha",
+      "sport": "Dance Sport",
+      "category": "Solo Dance Cha-Cha",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "Dewa Ayu Kirana Bintang Maheswari"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn10",
+          "athlete": "Desak Putu Trisna Prabandari"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "Ni Putu Keisha Ayu Pramusita"
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-solo-dance-jive",
+      "sport": "Dance Sport",
+      "category": "Solo Dance Jive",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "Dewa Ayu Kirana Bintang Maheswari"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn10",
+          "athlete": "Desak Putu Trisna Prabandari"
+        },
+        {
+          "place": 3,
+          "schoolId": "rajyamuna",
+          "athlete": "Ida Ayu Clarissa Kamala"
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-group-syllabus-cha-cha",
+      "sport": "Dance Sport",
+      "category": "Group Syllabus Cha-Cha",
+      "type": "beregu",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "rajyamuna",
+          "athlete": "Putu Imara Maheswari; I Dewa Ayu Kanyaka Pratistha Putri Bandjar; I.A. Clarissa Kamala; Putu Kirena Vindra Widiasri",
+          "athletes": [
+            "Putu Imara Maheswari",
+            "I Dewa Ayu Kanyaka Pratistha Putri Bandjar",
+            "I.A. Clarissa Kamala",
+            "Putu Kirena Vindra Widiasri"
+          ]
+        },
+        {
+          "place": 2,
+          "schoolId": "mahardika",
+          "athlete": "Gusti Ayu Putu Radea Prameswari; Cokorda Istri Indira Nanda Diandra; Putu Damara Lesjiana Saraswati; A.A. Mas Shara Tanaya",
+          "athletes": [
+            "Gusti Ayu Putu Radea Prameswari",
+            "Cokorda Istri Indira Nanda Diandra",
+            "Putu Damara Lesjiana Saraswati",
+            "A.A. Mas Shara Tanaya"
+          ]
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "Ni Kadek Kyara Anindya Wedaswari; Maitreya Sakala Baskoro; Putu Aurelia Subrata",
+          "athletes": [
+            "Ni Kadek Kyara Anindya Wedaswari",
+            "Maitreya Sakala Baskoro",
+            "Putu Aurelia Subrata"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-group-syllabus-rumba",
+      "sport": "Dance Sport",
+      "category": "Group Syllabus Rumba",
+      "type": "beregu",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "Ni Putu Keisha Ayu Pramusita; Dewa Ayu Pradnya Anindya; Ni Putu Jelita Putri",
+          "athletes": [
+            "Ni Putu Keisha Ayu Pramusita",
+            "Dewa Ayu Pradnya Anindya",
+            "Ni Putu Jelita Putri"
+          ]
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "A.A. Istri Chanthika Maheswari; Ni Made Divyana Ayunindya Gayatri; Made Kaysila Maisadipta Ayu",
+          "athletes": [
+            "A.A. Istri Chanthika Maheswari",
+            "Ni Made Divyana Ayunindya Gayatri",
+            "Made Kaysila Maisadipta Ayu"
+          ]
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Gusti Ayu Putu Radea Prameswari; Cokorda Istri Indira Nanda Diandra; Putu Damara Lesjiana Saraswati; A.A. Mas Shara Tanaya Negara",
+          "athletes": [
+            "Gusti Ayu Putu Radea Prameswari",
+            "Cokorda Istri Indira Nanda Diandra",
+            "Putu Damara Lesjiana Saraswati",
+            "A.A. Mas Shara Tanaya Negara"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dance-sport-group-syllabus-jive",
+      "sport": "Dance Sport",
+      "category": "Group Syllabus Jive",
+      "type": "beregu",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-06T10:48:04+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "rajyamuna",
+          "athlete": "Putu Imara Maheswari; I Dewa Ayu Kanyaka Pratistha Putri Bandjar; I.A. Clarissa Kamala; Putu Kirena Vindra Widiasri",
+          "athletes": [
+            "Putu Imara Maheswari",
+            "I Dewa Ayu Kanyaka Pratistha Putri Bandjar",
+            "I.A. Clarissa Kamala",
+            "Putu Kirena Vindra Widiasri"
+          ]
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "Putu Anandari Diyatmika; Putu Kikanara Ajeya Suarya; Putu Saundarya Devi; Miranda Adrina Widjaja",
+          "athletes": [
+            "Putu Anandari Diyatmika",
+            "Putu Kikanara Ajeya Suarya",
+            "Putu Saundarya Devi",
+            "Miranda Adrina Widjaja"
+          ]
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "Ni Kadek Kyara Anindya Wedaswari; Maitreya Sakala Baskoro; Putu Aurelia Subrata",
+          "athletes": [
+            "Ni Kadek Kyara Anindya Wedaswari",
+            "Maitreya Sakala Baskoro",
+            "Putu Aurelia Subrata"
+          ]
+        }
+      ]
     }
   ]
 }
