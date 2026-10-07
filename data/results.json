@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T09:44:45+08:00",
+  "updatedAt": "2026-10-07T10:16:39+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -594,6 +594,110 @@
           "place": 3,
           "schoolId": "sdn16",
           "athlete": ""
+        }
+      ]
+    },
+    {
+      "id": "atletik-lompat-tinggi-putra",
+      "sport": "Atletik",
+      "category": "Lompat Tinggi Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-07T10:16:39+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn12",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "nn"
+        }
+      ]
+    },
+    {
+      "id": "atletik-lompat-tinggi-putri",
+      "sport": "Atletik",
+      "category": "Lompat Tinggi Putri",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-07T10:16:39+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn12",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "nn"
+        }
+      ]
+    },
+    {
+      "id": "atletik-lompat-jauh-putra",
+      "sport": "Atletik",
+      "category": "Lompat Jauh Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-07T10:16:39+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn7",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn12",
+          "athlete": "nn"
+        }
+      ]
+    },
+    {
+      "id": "atletik-lompat-jauh-putri",
+      "sport": "Atletik",
+      "category": "Lompat Jauh Putri",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-07T10:16:39+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "nn"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn10",
+          "athlete": "nn"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn17",
+          "athlete": "nn"
         }
       ]
     }
