@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T10:48:04+08:00",
+  "updatedAt": "2026-10-07T09:44:45+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -568,6 +568,32 @@
             "Maitreya Sakala Baskoro",
             "Putu Aurelia Subrata"
           ]
+        }
+      ]
+    },
+    {
+      "id": "sepak-bola-beregu",
+      "sport": "Sepak Bola",
+      "category": "Beregu",
+      "type": "beregu",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-07T09:44:45+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn3",
+          "athlete": ""
+        },
+        {
+          "place": 2,
+          "schoolId": "mahardika",
+          "athlete": ""
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": ""
         }
       ]
     }
