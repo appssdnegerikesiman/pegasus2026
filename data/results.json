@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T13:02:20+08:00",
+  "updatedAt": "2026-10-08T13:10:51+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -766,6 +766,58 @@
           "place": 3,
           "schoolId": "mahardika",
           "athlete": "I Ketut Bagus Karisma Mahaputra"
+        }
+      ]
+    },
+    {
+      "id": "e-sport-mobile-legends",
+      "sport": "E-Sport",
+      "category": "Mobile Legends",
+      "type": "beregu",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-08T13:10:51+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn10",
+          "athlete": "Tim 1"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn12",
+          "athlete": "Tim 2"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "Tim 2"
+        }
+      ]
+    },
+    {
+      "id": "e-sport-free-fire",
+      "sport": "E-Sport",
+      "category": "Free Fire",
+      "type": "beregu",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-08T13:10:51+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn7",
+          "athlete": ""
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": ""
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn3",
+          "athlete": ""
         }
       ]
     }
