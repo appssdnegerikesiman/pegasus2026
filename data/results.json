@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T09:33:07+08:00",
+  "updatedAt": "2026-10-08T13:02:20+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -732,6 +732,40 @@
           "place": 3,
           "schoolId": "rajyamuna",
           "athlete": "I Putu Wahyu Gianta Sukartha"
+        }
+      ]
+    },
+    {
+      "id": "bulu-tangkis-putra",
+      "sport": "Bulu Tangkis",
+      "category": "Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "sharedPlaces": [
+        3
+      ],
+      "updatedAt": "2026-10-08T13:02:20+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "rajyamuna",
+          "athlete": "Kadek Prabhu Markandeya Dharmmayasacena"
+        },
+        {
+          "place": 2,
+          "schoolId": "mahardika",
+          "athlete": "Made Arkana Raditya"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Gede Andrayuga Cahya Winata"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "I Ketut Bagus Karisma Mahaputra"
         }
       ]
     }
