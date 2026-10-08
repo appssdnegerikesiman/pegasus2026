@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T10:16:39+08:00",
+  "updatedAt": "2026-10-08T09:33:07+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -698,6 +698,40 @@
           "place": 3,
           "schoolId": "sdn17",
           "athlete": "nn"
+        }
+      ]
+    },
+    {
+      "id": "tenis-meja-putra",
+      "sport": "Tenis Meja",
+      "category": "Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "sharedPlaces": [
+        3
+      ],
+      "updatedAt": "2026-10-08T09:33:07+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn3",
+          "athlete": "I Komang Agus Wirya Dharma"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn16",
+          "athlete": "I Kadek Agus Dwi Mahendra"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "I Kadek Danesswara Mahottana Atmaja"
+        },
+        {
+          "place": 3,
+          "schoolId": "rajyamuna",
+          "athlete": "I Putu Wahyu Gianta Sukartha"
         }
       ]
     }

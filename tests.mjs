@@ -9,4 +9,10 @@ assert.equal(rows.find(s=>s.id==='mahardika').total,3);assert.equal(rows.find(s=
 assert.equal(normalize({results:[...raw.results,...raw.results]},schools).length,raw.results.length);
 assert.ok(standings([],schools).every(s=>s.rank===null&&s.total===0));
 assert.equal(normalize({results:[{...events[0],participants:'8',winners:[{place:1,schoolId:'unknown'}]}]},schools)[0].winners.length,0);
-console.log('Medal rules, confirmed results, ties, empty state, validation and duplicates passed.');
+const sharedEvent={id:'test-shared',sport:'Test',category:'Putra',type:'perorangan',participants:5,sharedPlaces:[3],winners:[{place:3,schoolId:'sdn10',athlete:'A'},{place:3,schoolId:'rajyamuna',athlete:'B'},{place:3,schoolId:'sdn10',athlete:'A'}]};
+const shared=normalize({results:[sharedEvent]},schools);
+assert.equal(shared[0].winners.length,2);
+assert.equal(standings(shared,schools).reduce((n,s)=>n+s.total,0),2);
+assert.equal(normalize({results:[{...sharedEvent,sharedPlaces:[]}]},schools)[0].winners.length,1);
+assert.equal(standings(normalize({results:[{...sharedEvent,participants:4}]},schools),schools).reduce((n,s)=>n+s.total,0),0);
+console.log('Medal rules, confirmed results, ties, shared bronze, empty state, validation and duplicates passed.');

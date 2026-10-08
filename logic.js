@@ -4,10 +4,12 @@ export function normalize(raw, schools) {
   for (const event of Array.isArray(raw.results) ? raw.results : []) {
     if (!event || typeof event.sport !== 'string' || typeof event.category !== 'string' || !['perorangan','beregu'].includes(event.type)) continue;
     const key = `${event.sport.trim().toLowerCase()}|${event.category.trim().toLowerCase()}`;
-    const winners = [], places = new Set();
+    const winners = [], places = new Set(), identities = new Set();
     for (const winner of Array.isArray(event.winners) ? event.winners : []) {
-      if (!winner || !known.has(winner.schoolId) || ![1,2,3].includes(winner.place) || places.has(winner.place)) continue;
-      places.add(winner.place); winners.push(winner);
+      if (!winner || !known.has(winner.schoolId) || ![1,2,3].includes(winner.place)) continue;
+      const identity = JSON.stringify([winner.place,winner.schoolId,winner.athlete ?? '',winner.athletes ?? []]);
+      if (identities.has(identity) || (places.has(winner.place) && !event.sharedPlaces?.includes(winner.place))) continue;
+      identities.add(identity); places.add(winner.place); winners.push(winner);
     }
     const clean = {...event, winners, participants: Number.isInteger(event.participants) && event.participants >= 0 ? event.participants : null};
     if (!unique.has(key) || (Date.parse(clean.updatedAt) || 0) >= (Date.parse(unique.get(key).updatedAt) || 0)) unique.set(key, clean);
