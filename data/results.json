@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T13:10:51+08:00",
+  "updatedAt": "2026-10-09T09:34:33+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -818,6 +818,174 @@
           "place": 3,
           "schoolId": "sdn3",
           "athlete": ""
+        }
+      ]
+    },
+    {
+      "id": "karate-kumite-minus32",
+      "sport": "Karate",
+      "category": "Kumite -32",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T09:34:33+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "Wika"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn3",
+          "athlete": "Ayudia"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "Dewa Ayu"
+        }
+      ]
+    },
+    {
+      "id": "karate-kumite-minus42",
+      "sport": "Karate",
+      "category": "Kumite -42",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T09:34:33+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "rajyamuna",
+          "athlete": "Kayika"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "Oka"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Sydney"
+        }
+      ]
+    },
+    {
+      "id": "renang-bebas-putra-50m",
+      "sport": "Renang",
+      "category": "Bebas Putra 50 M",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T09:34:33+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "mahardika",
+          "athlete": "Prana",
+          "performance": "35.88"
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "Damika Agata Kusuma",
+          "performance": "41.22"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "I Nyoman Natha Narendra Ariawan",
+          "performance": "44.64"
+        }
+      ]
+    },
+    {
+      "id": "renang-bebas-putri-50m",
+      "sport": "Renang",
+      "category": "Bebas Putri 50 M",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T09:34:33+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "rajyamuna",
+          "athlete": "Dewa Ayu Ganindia Sinta Laksmi",
+          "performance": "39.91"
+        },
+        {
+          "place": 2,
+          "schoolId": "mahardika",
+          "athlete": "Mika",
+          "performance": "51.84"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Milan",
+          "performance": "57.41"
+        }
+      ]
+    },
+    {
+      "id": "renang-dada-putra-50m",
+      "sport": "Renang",
+      "category": "Dada Putra 50 M",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T09:34:33+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn16",
+          "athlete": "I Nyoman Natha Narendra Ariawan",
+          "performance": "1.00.80"
+        },
+        {
+          "place": 2,
+          "schoolId": "rajyamuna",
+          "athlete": "Kadek Gavindra Dimitra Wijaya",
+          "performance": "01.08.64"
+        },
+        {
+          "place": 3,
+          "schoolId": "rajyamuna",
+          "athlete": "I Wayan Abiseka Suputra",
+          "performance": "1.12.71"
+        }
+      ]
+    },
+    {
+      "id": "renang-dada-putri-50m",
+      "sport": "Renang",
+      "category": "Dada Putri 50 M",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T09:34:33+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "rajyamuna",
+          "athlete": "Dewa Ayu Ganindia Sinta Laksmi",
+          "performance": "1.00.40"
+        },
+        {
+          "place": 2,
+          "schoolId": "mahardika",
+          "athlete": "Mika",
+          "performance": "1.18.92"
+        },
+        {
+          "place": 3,
+          "schoolId": "mahardika",
+          "athlete": "Milan",
+          "performance": "1.25.42"
         }
       ]
     }
