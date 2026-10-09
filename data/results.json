@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:34:33+08:00",
+  "updatedAt": "2026-10-09T18:57:58+08:00",
   "results": [
     {
       "id": "catur-putra",
@@ -986,6 +986,188 @@
           "schoolId": "mahardika",
           "athlete": "Milan",
           "performance": "1.25.42"
+        }
+      ]
+    },
+    {
+      "id": "pencak-silat-putra-b",
+      "sport": "Pencak Silat",
+      "category": "Kelas B Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T18:57:58+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn7",
+          "athlete": "Yusuf"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "Angga"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "Ganes"
+        }
+      ]
+    },
+    {
+      "id": "pencak-silat-putra-c",
+      "sport": "Pencak Silat",
+      "category": "Kelas C Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T18:57:58+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn10",
+          "athlete": "Mirza"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "Saka"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn12",
+          "athlete": "Bayu"
+        }
+      ]
+    },
+    {
+      "id": "pencak-silat-putra-d",
+      "sport": "Pencak Silat",
+      "category": "Kelas D Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T18:57:58+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn10",
+          "athlete": "Fatir"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn17",
+          "athlete": "Agung"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "Kenzie"
+        }
+      ]
+    },
+    {
+      "id": "pencak-silat-putra-g",
+      "sport": "Pencak Silat",
+      "category": "Kelas G Putra",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T18:57:58+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn12",
+          "athlete": "Bagus"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn10",
+          "athlete": "Zaki"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn7",
+          "athlete": "Rasta"
+        }
+      ]
+    },
+    {
+      "id": "pencak-silat-putri-a",
+      "sport": "Pencak Silat",
+      "category": "Kelas A Putri",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T18:57:58+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn7",
+          "athlete": "Aqila"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn16",
+          "athlete": "Florinda"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn10",
+          "athlete": "Gita"
+        }
+      ]
+    },
+    {
+      "id": "pencak-silat-putri-c",
+      "sport": "Pencak Silat",
+      "category": "Kelas C Putri",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T18:57:58+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn12",
+          "athlete": "Jiotika"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn10",
+          "athlete": "Ameda"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "Dita"
+        }
+      ]
+    },
+    {
+      "id": "pencak-silat-putri-d",
+      "sport": "Pencak Silat",
+      "category": "Kelas D Putri",
+      "type": "perorangan",
+      "participants": null,
+      "medalsConfirmed": true,
+      "updatedAt": "2026-10-09T18:57:58+08:00",
+      "winners": [
+        {
+          "place": 1,
+          "schoolId": "sdn17",
+          "athlete": "Despiana"
+        },
+        {
+          "place": 2,
+          "schoolId": "sdn16",
+          "athlete": "Anggi"
+        },
+        {
+          "place": 3,
+          "schoolId": "sdn16",
+          "athlete": "Santika"
         }
       ]
     }
